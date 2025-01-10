@@ -1,5 +1,6 @@
 # Cooking_website
 The wesite, Mi's Kitchen, posts Asian cooking recipes and classes.
+Here is the website link(made by AI): https://yep.so/p/receipt-website 
 
 **Business Model**: Users can choose from three subscription plans. The basic plan only allows viewing recipes and preparation steps. The intermediate plan includes video access and a chatbot customer service. The premium plan offers live online classes and the opportunity to participate in offline seminars.
 
