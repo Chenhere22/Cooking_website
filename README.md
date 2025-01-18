@@ -72,3 +72,7 @@ Or take advantage of the bundle deal: 10 recipes for only €5 when you join my 
 Share with Friends
 
 Help spread the word by sharing the content with friends who love cooking and food inspiration.
+
+** Content creation:
+
+The fluency and accuracy of German affects the attraction of the contention. Before we add subtitle to each video, we should check the audio and subtitles in detail to make a responsible IP for the potential customers.  
